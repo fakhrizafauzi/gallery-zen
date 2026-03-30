@@ -2,7 +2,7 @@
 
 A premium, minimalist Japanese-inspired web archive viewer for images and documents. Designed with the aesthetics of **Wabi-Sabi** and **Modern Nihon** design.
 
-![Screenshot](public/vite.svg)
+<!-- ![Screenshot](public/vite.svg) -->
 
 ## ✨ Features
 - **Zen Aesthetic**: Light cream (Isago) backgrounds, Summ-e ink accents, and Washi paper textures.
