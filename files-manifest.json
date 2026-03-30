@@ -1,0 +1,40 @@
+{
+  "updatedAt": "2026-03-30T03:46:01.365Z",
+  "images": [
+    {
+      "name": "Instagram Postingan (5).png",
+      "url": "image/Instagram Postingan (5).png",
+      "size": "1482.77 KB",
+      "mtime": "2026-03-27T06:47:51.947Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "SIKILKU - _Shoe E-Commerce_.jpg",
+      "url": "image/SIKILKU - _Shoe E-Commerce_.jpg",
+      "size": "27.75 KB",
+      "mtime": "2026-02-26T02:49:46.546Z",
+      "type": "image",
+      "ext": "jpg"
+    }
+  ],
+  "documents": [
+    {
+      "name": "Jr_Programmer_UJP_21824_2.pdf",
+      "url": "document/Jr_Programmer_UJP_21824_2.pdf",
+      "size": "13093.30 KB",
+      "mtime": "2026-02-02T06:20:10.760Z",
+      "type": "document",
+      "ext": "pdf"
+    },
+    {
+      "name": "Jr_Unity_Developer_UJP_0925_2.pdf",
+      "url": "document/Jr_Unity_Developer_UJP_0925_2.pdf",
+      "size": "6598.71 KB",
+      "mtime": "2026-02-02T06:20:03.069Z",
+      "type": "document",
+      "ext": "pdf"
+    }
+  ],
+  "total": 4
+}
