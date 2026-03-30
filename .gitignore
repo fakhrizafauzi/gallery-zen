@@ -27,10 +27,22 @@ dist-ssr
 public/files-manifest.json
 public/image/*
 public/document/*
+
+# Ignore semua isi uploads
+uploads/*
+
+# Tapi izinkan folder tertentu
+!uploads/image/
+!uploads/document/
+
+# Ignore isi dalam folder itu
 uploads/image/*
-!uploads/image/.gitkeep
 uploads/document/*
+
+# Kecuali .gitkeep
+!uploads/image/.gitkeep
 !uploads/document/.gitkeep
+
 src/output.css
 
 # Environment
