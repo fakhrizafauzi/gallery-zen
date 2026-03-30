@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T04:03:33.178Z",
+  "updatedAt": "2026-03-30T04:04:08.108Z",
   "images": [
     {
       "name": "Instagram Postingan (5).png",
@@ -42,14 +42,6 @@
       "ext": "png"
     },
     {
-      "name": "Screenshot 2025-11-18 182000.png",
-      "url": "image/Screenshot 2025-11-18 182000.png",
-      "size": "2400.17 KB",
-      "mtime": "2025-11-18T11:20:00.849Z",
-      "type": "image",
-      "ext": "png"
-    },
-    {
       "name": "SIKILKU - _Shoe E-Commerce_.jpg",
       "url": "image/SIKILKU - _Shoe E-Commerce_.jpg",
       "size": "27.75 KB",
@@ -76,5 +68,5 @@
       "ext": "pdf"
     }
   ],
-  "total": 9
+  "total": 8
 }
