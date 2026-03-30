@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/zen-gallery/',
+  base: '/gallery-zen/',
   plugins: [
     react(),
   ],
