@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-03T02:11:12.743Z",
+  "updatedAt": "2026-04-03T02:26:05.412Z",
   "images": [
     {
       "name": "Cover (5).png",
@@ -82,6 +82,30 @@
       "ext": "png"
     },
     {
+      "name": "Screenshot 2026-04-03 084207.png",
+      "url": "image/Screenshot 2026-04-03 084207.png",
+      "size": "2046.43 KB",
+      "mtime": "2026-04-03T01:42:07.926Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "Screenshot 2026-04-03 084214.png",
+      "url": "image/Screenshot 2026-04-03 084214.png",
+      "size": "1083.62 KB",
+      "mtime": "2026-04-03T01:42:15.193Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "Screenshot 2026-04-03 084231.png",
+      "url": "image/Screenshot 2026-04-03 084231.png",
+      "size": "1026.66 KB",
+      "mtime": "2026-04-03T01:42:31.798Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
       "name": "SIKILKU - _Shoe E-Commerce_.jpg",
       "url": "image/SIKILKU - _Shoe E-Commerce_.jpg",
       "size": "27.75 KB",
@@ -132,5 +156,5 @@
       "ext": "pdf"
     }
   ],
-  "total": 16
+  "total": 19
 }
