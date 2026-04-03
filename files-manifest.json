@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-03-30T04:27:41.369Z",
+  "updatedAt": "2026-04-03T01:59:27.567Z",
   "images": [
+    {
+      "name": "Cover (5).png",
+      "url": "image/Cover (5).png",
+      "size": "1455.06 KB",
+      "mtime": "2026-04-03T01:43:19.481Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "Cover (6).png",
+      "url": "image/Cover (6).png",
+      "size": "1263.56 KB",
+      "mtime": "2026-04-03T01:51:28.194Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "Cover (7).png",
+      "url": "image/Cover (7).png",
+      "size": "1625.99 KB",
+      "mtime": "2026-04-03T01:54:03.307Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "Cover (8).png",
+      "url": "image/Cover (8).png",
+      "size": "1314.25 KB",
+      "mtime": "2026-04-03T01:56:17.433Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "Cover (9).png",
+      "url": "image/Cover (9).png",
+      "size": "1801.22 KB",
+      "mtime": "2026-04-03T01:57:11.124Z",
+      "type": "image",
+      "ext": "png"
+    },
     {
       "name": "Instagram Postingan (5).png",
       "url": "image/Instagram Postingan (5).png",
@@ -48,6 +88,30 @@
       "mtime": "2026-02-26T02:49:46.546Z",
       "type": "image",
       "ext": "jpg"
+    },
+    {
+      "name": "Slide 16_9 - 1 (2).png",
+      "url": "image/Slide 16_9 - 1 (2).png",
+      "size": "976.33 KB",
+      "mtime": "2026-04-03T01:56:55.021Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "Tabloid - 3.png",
+      "url": "image/Tabloid - 3.png",
+      "size": "892.53 KB",
+      "mtime": "2026-04-03T01:42:53.782Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "Thumbnail (4).png",
+      "url": "image/Thumbnail (4).png",
+      "size": "1672.32 KB",
+      "mtime": "2026-04-03T01:56:43.700Z",
+      "type": "image",
+      "ext": "png"
     }
   ],
   "documents": [
@@ -68,5 +132,5 @@
       "ext": "pdf"
     }
   ],
-  "total": 8
+  "total": 16
 }
