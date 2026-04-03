@@ -24,6 +24,11 @@ function syncDirectory(src, dest) {
     console.warn(`Source directory not found: ${src}`);
     return;
   }
+  
+  // Clean sync: remove destination if it exists to clear deleted files
+  if (fs.existsSync(dest)) {
+    fs.rmSync(dest, { recursive: true, force: true });
+  }
   ensureDir(dest);
   
   const files = fs.readdirSync(src);
