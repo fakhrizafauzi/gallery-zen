@@ -9,6 +9,8 @@ const FileCard = ({ file, onClick, variant = 'grid' }) => {
     show: { y: 0, opacity: 1 }
   };
 
+  const assetUrl = `${import.meta.env.BASE_URL}${file.url}?t=${new Date(file.mtime).getTime()}`;
+
   if (variant === 'list') {
     return (
       <motion.div 
@@ -33,7 +35,7 @@ const FileCard = ({ file, onClick, variant = 'grid' }) => {
         
         <div className="flex items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
            <a 
-             href={`${import.meta.env.BASE_URL}${file.url}`} 
+             href={assetUrl} 
              download 
              onClick={(e) => e.stopPropagation()} 
              className="p-2 text-nihon-gumi hover:text-nihon-beni transition-colors"
@@ -58,7 +60,7 @@ const FileCard = ({ file, onClick, variant = 'grid' }) => {
       <div className="relative aspect-square overflow-hidden bg-nihon-ink/5 flex items-center justify-center group-hover:shadow-[0_8px_30px_rgba(0,0,0,0.04)] transition-all">
         {isImage ? (
           <img 
-            src={`${import.meta.env.BASE_URL}${file.url}`} 
+            src={assetUrl} 
             alt={file.name} 
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
           />

@@ -4,6 +4,7 @@ import { X, Download, ExternalLink, Calendar, HardDrive, FileText, Info } from '
 
 const Preview = ({ file, onClose }) => {
   const isImage = file.type === 'image';
+  const assetUrl = `${import.meta.env.BASE_URL}${file.url}?t=${new Date(file.mtime).getTime()}`;
 
   return (
     <motion.div 
@@ -32,7 +33,7 @@ const Preview = ({ file, onClose }) => {
         <div className="flex-[3] bg-white/20 flex items-center justify-center overflow-auto p-4 md:p-0">
           {isImage ? (
             <img 
-              src={`${import.meta.env.BASE_URL}${file.url}`} 
+              src={assetUrl} 
               alt={file.name} 
               className="max-w-full max-h-full object-contain shadow-2xl"
             />
@@ -88,7 +89,7 @@ const Preview = ({ file, onClose }) => {
 
           <div className="mt-auto space-y-3">
              <a 
-               href={`${import.meta.env.BASE_URL}${file.url}`} 
+               href={assetUrl} 
                download 
                className="flex items-center justify-center gap-3 w-full py-4 bg-nihon-ink text-white font-sans-jp font-bold text-xs uppercase tracking-[0.3em] hover:bg-nihon-beni transition-all duration-300 shadow-xl active:scale-95"
              >
@@ -96,7 +97,7 @@ const Preview = ({ file, onClose }) => {
                DOWNLOAD SCROLL
              </a>
              <a 
-               href={`${import.meta.env.BASE_URL}${file.url}`} 
+               href={assetUrl} 
                target="_blank" 
                rel="noopener noreferrer"
                className="flex items-center justify-center gap-3 w-full py-4 border border-nihon-ink/10 text-nihon-ink font-sans-jp font-bold text-xs uppercase tracking-[0.3em] hover:bg-white transition-all duration-300 active:scale-95"

@@ -12,7 +12,7 @@ function App() {
   const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}files-manifest.json`)
+    fetch(`${import.meta.env.BASE_URL}files-manifest.json?t=${Date.now()}`)
       .then(res => res.json())
       .then(data => {
         setManifest(data);
