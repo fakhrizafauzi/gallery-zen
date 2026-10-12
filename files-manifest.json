@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T20:36:39.000Z",
+  "updatedAt": "2026-10-12T20:40:21.761Z",
   "images": [
     {
       "name": "About.png",
@@ -306,6 +306,14 @@
       "ext": "png"
     },
     {
+      "name": "Screenshot 2026-10-13 033906.png",
+      "url": "image/Screenshot 2026-10-13 033906.png",
+      "size": "624.08 KB",
+      "mtime": "2026-10-12T20:39:07.187Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
       "name": "Settings.png",
       "url": "image/Settings.png",
       "size": "1751.25 KB",
@@ -372,5 +380,5 @@
       "ext": "pdf"
     }
   ],
-  "total": 46
+  "total": 47
 }
