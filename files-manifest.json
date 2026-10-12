@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T20:40:21.761Z",
+  "updatedAt": "2026-10-12T21:14:10.353Z",
   "images": [
     {
       "name": "About.png",
@@ -102,6 +102,14 @@
       "url": "image/Instagram Postingan (5).png",
       "size": "1482.77 KB",
       "mtime": "2026-03-27T06:47:51.947Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "Logo Logo (9).png",
+      "url": "image/Logo Logo (9).png",
+      "size": "75.97 KB",
+      "mtime": "2026-10-12T13:48:54.848Z",
       "type": "image",
       "ext": "png"
     },
@@ -380,5 +388,5 @@
       "ext": "pdf"
     }
   ],
-  "total": 47
+  "total": 48
 }
