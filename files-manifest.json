@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T17:16:36.857Z",
+  "updatedAt": "2026-11-15T17:25:09.093Z",
   "images": [
     {
       "name": "About.png",
@@ -94,6 +94,14 @@
       "url": "image/Genshin Impact Paimon Menu (5).png",
       "size": "1580.04 KB",
       "mtime": "2026-04-29T11:45:38.441Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "Group 2.png",
+      "url": "image/Group 2.png",
+      "size": "14.66 KB",
+      "mtime": "2026-11-15T13:39:16.052Z",
       "type": "image",
       "ext": "png"
     },
@@ -452,5 +460,5 @@
       "ext": "pdf"
     }
   ],
-  "total": 56
+  "total": 57
 }
