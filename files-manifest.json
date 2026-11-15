@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T09:03:56.901Z",
+  "updatedAt": "2026-11-15T17:16:36.857Z",
   "images": [
     {
       "name": "About.png",
@@ -354,6 +354,38 @@
       "ext": "png"
     },
     {
+      "name": "Screenshot 2026-11-15 234953.png",
+      "url": "image/Screenshot 2026-11-15 234953.png",
+      "size": "972.86 KB",
+      "mtime": "2026-11-15T16:49:53.862Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "Screenshot 2026-11-15 235034.png",
+      "url": "image/Screenshot 2026-11-15 235034.png",
+      "size": "843.66 KB",
+      "mtime": "2026-11-15T16:50:34.493Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "Screenshot 2026-11-16 000046.png",
+      "url": "image/Screenshot 2026-11-16 000046.png",
+      "size": "836.54 KB",
+      "mtime": "2026-11-15T17:00:46.775Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
+      "name": "Screenshot 2026-11-16 000132.png",
+      "url": "image/Screenshot 2026-11-16 000132.png",
+      "size": "555.08 KB",
+      "mtime": "2026-11-15T17:01:32.352Z",
+      "type": "image",
+      "ext": "png"
+    },
+    {
       "name": "Settings.png",
       "url": "image/Settings.png",
       "size": "1751.25 KB",
@@ -420,5 +452,5 @@
       "ext": "pdf"
     }
   ],
-  "total": 52
+  "total": 56
 }
